@@ -1,6 +1,6 @@
 @extends('layouts.shop')
 
-@section('title', $category->name . ' - Online Shop')
+@section('title', $category->name . ' | BrightUp')
 
 @section('content')
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

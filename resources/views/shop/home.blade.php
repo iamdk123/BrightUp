@@ -1,6 +1,6 @@
 @extends('layouts.shop')
 
-@section('title', 'Home - Online Shop')
+@section('title', 'Beranda | BrightUp')
 
 @section('content')
 @include('components.shop.hero')
